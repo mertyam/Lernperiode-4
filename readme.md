@@ -14,9 +14,9 @@ Ich habe in den Module bisher immer über eine 5 geschrieben und ich denke das i
 
 ## 16.1.2024
 
-- [ ] Informieren ob mann SQL mit C# verbinden kann
-- [ ] Mich informieren wie es geht (falls Code vorhanden)
-- [ ] eigenen SQL Server erstellen für das Projekt
+- [x] Informieren ob mann SQL mit C# verbinden kann
+- [x] Mich informieren wie es geht (falls Code vorhanden)
+- [x] eigenen SQL Server erstellen für das Projekt
 
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
