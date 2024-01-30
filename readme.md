@@ -25,15 +25,15 @@ Ich habe in den Module bisher immer über eine 5 geschrieben und ich denke das i
 
 ## 23.1.2024
 
-- [ ] Code umsetzen
+- [x] Code umsetzen
 - [ ] Verbindung aufstellen
-- [ ] Testen
+- [x] Testen
 
-Ich ahbe es nicht geschafft das es klappt.    
+Ich habe es nicht geschafft das es klappt. Der einte Befehl funktioniert auf meinen Visual Studios nicht.
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-|  1              |     Testfälle nachdem ich mich informiert habe                                                |                             |                |          |
+|  1              | Kann es das Programm die Infos aus SQL rauslesen             |   Keine Eingabe             | Info           | Nein     |
 |                 |                                                              |                             |                |          |
 |                 |                                                              |                             |                |          |
  
@@ -46,7 +46,7 @@ Ich ahbe es nicht geschafft das es klappt.
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
-
+Ich konnte leider die Lernperiode nicht mit einem funktionierenden Code beenden. Ich habe die meiste Zeit dieser Lernperiode damit verbracht im Internet zu recherchieren, leider ohne Erfolg.
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
