@@ -27,7 +27,9 @@ Ich habe in den Module bisher immer über eine 5 geschrieben und ich denke das i
 
 - [ ] Code umsetzen
 - [ ] Verbindung aufstellen
-- [ ] Testen      
+- [ ] Testen
+
+Ich ahbe es nicht geschafft das es klappt.    
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
