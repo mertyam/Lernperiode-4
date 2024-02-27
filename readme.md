@@ -9,10 +9,10 @@ Ich will diese Lern-Periode SQL meistern. (An unserem Projekt arbeiten). In den 
 ## 27.2.24
 Ich habe heute sehr gut an meinem SQL Projekt gearbeitet. Ich habe den ganzen Code gemacht und muss jetzt noch die Dokumentation machen. Ich habe es auch hingekriegt das mein Befehl in meinem SQL Reader jetzt funktioniert doch jetzt hab ich das Problem, dass es einen Error gibt.
 
-[] Dokumentation für SQL
-[] Mit Lernzielen vergleichen
-[] Nochmal SQL Reader ausprobieren
-[] Falls es nicht geht den Fehler suchen
+[ ] Dokumentation für SQL
+[ ] Mit Lernzielen vergleichen
+[ ] Nochmal SQL Reader ausprobieren
+[ ] Falls es nicht geht den Fehler suchen
 
 
 ## 30.1.2024
