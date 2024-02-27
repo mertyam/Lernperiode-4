@@ -9,15 +9,22 @@ Ich will diese Lern-Periode SQL meistern. (An unserem Projekt arbeiten). In den 
 ## 27.2.24
 Ich habe heute sehr gut an meinem SQL Projekt gearbeitet. Ich habe den ganzen Code gemacht und muss jetzt noch die Dokumentation machen. Ich habe es auch hingekriegt das mein Befehl in meinem SQL Reader jetzt funktioniert doch jetzt hab ich das Problem, dass es einen Error gibt.
 
-- [ ] Dokumentation für SQL
-- [ ] Mit Lernzielen vergleichen
+- [x] Dokumentation für SQL
+- [x] Mit Lernzielen vergleichen
 - [ ] API Sprachen erkenner Programmieren
-- [ ] Seite für APIs suchen, mich anmelden, Sprachenerkenner suchen, andere API Projekt Ideen suchen
+- [x] Seite für APIs suchen, mich anmelden, Sprachenerkenner suchen, andere API Projekt Ideen suchen
 
+Ich habe heute an meinem SQL Projekt gearbeitet. Ich habe viel Zeit damit verbracht Datensätze einzufügen und zu dokumentieren. Danach habe ich mit die Seite Rapid API rausgesucht. Auf dieser Seite hat es jenste APIs und auch Anleitungen. Dadurch bin ich fast mit meinem Sprachenerkenner fertig.
+## 05.03.24
 
-## 30.1.2024
+- [ ] API Sprachen erkennner Programmieren
+- [ ] Nach einer funktionierenden API (Übersetzer) suchen
+- [ ] API Überstzer programmieren
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache |  |
+| 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache |  |
+
 
 ## Reflexion
 
