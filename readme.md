@@ -19,7 +19,8 @@ Ich habe heute an meinem SQL Projekt gearbeitet. Ich habe viel Zeit damit verbra
 
 - [ ] API Sprachen erkennner Programmieren
 - [ ] Nach einer funktionierenden API (Übersetzer) suchen
-- [ ] API Überstzer programmieren
+- [ ] API Übersetzer programmieren
+- [ ] API Übersetzer ausarbeiten
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 | 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache |  |
