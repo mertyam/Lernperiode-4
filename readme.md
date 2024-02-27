@@ -11,8 +11,8 @@ Ich habe heute sehr gut an meinem SQL Projekt gearbeitet. Ich habe den ganzen Co
 
 - [ ] Dokumentation für SQL
 - [ ] Mit Lernzielen vergleichen
-- [ ] Nochmal SQL Reader ausprobieren
-- [ ] Falls es nicht geht den Fehler suchen
+- [ ] Mit API Translator versuchen (Schauen ob es möglich ist)
+- [ ] Suchen nach vielleicht vorhandenen Codes
 
 
 ## 30.1.2024
