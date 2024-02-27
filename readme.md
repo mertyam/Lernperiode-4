@@ -11,8 +11,8 @@ Ich habe heute sehr gut an meinem SQL Projekt gearbeitet. Ich habe den ganzen Co
 
 - [ ] Dokumentation für SQL
 - [ ] Mit Lernzielen vergleichen
-- [ ] Mit API Translator versuchen (Schauen ob es möglich ist)
-- [ ] Suchen nach vielleicht vorhandenen Codes
+- [ ] API Sprachen erkenner Programmieren
+- [ ] Seite für APIs suchen, mich anmelden, Sprachenerkenner suchen, andere API Projekt Ideen suchen
 
 
 ## 30.1.2024
