@@ -17,15 +17,27 @@ Ich habe heute sehr gut an meinem SQL Projekt gearbeitet. Ich habe den ganzen Co
 Ich habe heute an meinem SQL Projekt gearbeitet. Ich habe viel Zeit damit verbracht Datensätze einzufügen und zu dokumentieren. Danach habe ich mit die Seite Rapid API rausgesucht. Auf dieser Seite hat es jenste APIs und auch Anleitungen. Dadurch bin ich fast mit meinem Sprachenerkenner fertig.
 ## 05.03.24
 
-- [ ] API Sprachen erkennner Programmieren
-- [ ] Nach einer funktionierenden API (Übersetzer) suchen
-- [ ] API Übersetzer programmieren
+- [x] API Sprachen erkennner Programmieren
+- [x] Nach einer funktionierenden API (Übersetzer) suchen
+- [x] API Übersetzer programmieren
 - [ ] API Übersetzer ausarbeiten
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
-| 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache |  |
-| 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache |  |
+| 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache | Geht noch nicht|
+| 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache | Geht nicht |
 
+Ich habe ein bisschen lange gebraucht um eine funktionierende API zu finden doch schlussendlich hatte ich sie gefunden. Nachdem ich einen Code gefunden habe der funktionieren sollte habe ich es ausprobiert doch es lief nicht. Ich denke ich muss eine Ergänzung einfügen in das Programm.
+
+## 12.03.24
+
+- [ ] Ergänzung finden und installieren
+- [ ] 
+- [ ] 
+- [ ] 
+
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache | |
+| 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache | |
 
 ## Reflexion
 
