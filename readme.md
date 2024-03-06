@@ -33,7 +33,7 @@ Ich habe ein bisschen lange gebraucht um eine funktionierende API zu finden doch
 - [ ] Ergänzung finden und installieren
 - [ ] API Übersetzer ausarbeiten
 - [ ] API Ideen suchen auf API Seite
-- [ ] 
+- [ ] API Umsetzen
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 | 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache | |
