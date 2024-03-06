@@ -31,8 +31,8 @@ Ich habe ein bisschen lange gebraucht um eine funktionierende API zu finden doch
 ## 12.03.24
 
 - [ ] Ergänzung finden und installieren
-- [ ] 
-- [ ] 
+- [ ] API Übersetzer ausarbeiten
+- [ ] API Ideen suchen auf API Seite
 - [ ] 
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
