@@ -43,6 +43,24 @@ Ich habe ein bisschen lange gebraucht um eine funktionierende API zu finden doch
 Ich musste leider an meinen Modulaufträgen arbeiten da diese eine dringende Abgabe hatten.
 
 
+## 19.03.24
+
+Ich habe heute weiter an meinem Übersetzer gearbeitet. Ich hatte anfangs viele Probleme und musste erst lernen wie man strings kombiniert mit einer kleinen Übung. Ich hatte auch formatierungsfehler doch ich konnte alle Probleme bis Ende der Lektionen lösen.
+
+
+## 26.03.24
+
+- [ ] Modul 187 09
+- [ ] API Übersetzer ausarbeiten (Winforms)
+- [ ] Modul 187 10
+- [ ] Modul 106 05
+
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| -------------- | ------------ | ------- | ------- | -------- |
+| 1 | Funktionierendes Programm (Winforms) | Satz in einer bestimmten Sprache | Die Sprache | |
+| 2 | Meine Lösung stimmt überein mit Lösung | Meine Lösung | Lösung |  |
+
+
 
 ## Reflexion
 
