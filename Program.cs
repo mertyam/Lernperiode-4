@@ -1,48 +1,43 @@
-﻿using System;
-using System.Data.SqlClient;
+﻿using System.Net.Http.Headers;
 
-class Program
+var client = new HttpClient();
+
+Console.WriteLine("Bei welchem Satz wollen Sie die Sprache herausfinden?");
+var user_text = Console.ReadLine();
+
+
+String user_text_as_json = "[\r\n    {\r\n        \"Text\": \"" + user_text + "\"\r\n    }\r\n]";
+
+
+
+
+var request = new HttpRequestMessage
 {
-    static void Main()
+    Method = HttpMethod.Post,
+    RequestUri = new Uri("https://microsoft-translator-text.p.rapidapi.com/BreakSentence?api-version=3.0"),
+    Headers =
     {
-        // Verbindungsinformationen zum SQL Server
-        string server = "DESKTOP-HR8IHM9\\SQLEXPRESS";
-        string database = "MertYamaliDB";
-        string username = "";
-        string password = "465020";
+        { "X-RapidAPI-Key", "225a9a49d5mshe648386092c5c3bp1eee05jsnd3e5d4cc0303" },
+        { "X-RapidAPI-Host", "microsoft-translator-text.p.rapidapi.com" },
+    },
 
-        // Verbindungsschnur (Connection String) erstellen
-        string connectionString = $"Server={server};Database={database};User Id={username};Password={password};";
 
-        // SqlConnection-Objekt erstellen
-        using (SqlConnection connection = new SqlConnection(connectionString))
+
+    Content = new StringContent(user_text_as_json)
+    {
+        Headers =
         {
-            try
-            {
-                // Verbindung öffnen
-                connection.Open();
-                Console.WriteLine("Verbindung erfolgreich geöffnet.");
-
-                
-
-                // Beispiel: SQL-Befehl ausführen
-                string sqlQuery = "SELECT * FROM DeineTabelle";
-                using (SqlCommand command = new SqlCommand(sqlQuery, connection))
-                {
-                    using (SqlDataReader reader = command.ExecuteReader())
-                    {
-                        while (reader.Read())
-                        {
-                            // Verarbeitung der Daten hier
-                            Console.WriteLine(reader["Vorname"].ToString());
-                        }
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Fehler beim Öffnen der Verbindung: {ex.Message}");
-            }
+            ContentType = new MediaTypeHeaderValue("application/json")
         }
     }
+};
+
+
+
+
+using (var response = await client.SendAsync(request))
+{
+    response.EnsureSuccessStatusCode();
+    var body = await response.Content.ReadAsStringAsync();
+    Console.WriteLine(body);
 }
