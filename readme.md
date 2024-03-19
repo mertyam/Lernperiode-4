@@ -23,6 +23,7 @@ Ich habe heute an meinem SQL Projekt gearbeitet. Ich habe viel Zeit damit verbra
 - [ ] API Übersetzer ausarbeiten
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| -------------- | ------------ | ------- | ------- | -------- |
 | 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache | Geht noch nicht|
 | 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache | Geht nicht |
 
@@ -38,6 +39,10 @@ Ich habe ein bisschen lange gebraucht um eine funktionierende API zu finden doch
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 | 1 | Funktionierendes Programm | Satz in einer bestimmten Sprache | Die Sprache | |
 | 2 | Korrekte Übersetzung | Satz in Deutsch | Gewollte Sprache | |
+
+Ich musste leider an meinen Modulaufträgen arbeiten da diese eine dringende Abgabe hatten.
+
+
 
 ## Reflexion
 
