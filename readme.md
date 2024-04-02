@@ -50,17 +50,24 @@ Ich habe heute weiter an meinem Übersetzer gearbeitet. Ich hatte anfangs viele 
 
 ## 26.03.24
 
-- [ ] Modul 187 09
+- [x] Modul 187 09
 - [ ] API Übersetzer ausarbeiten (Winforms)
-- [ ] Modul 187 10
-- [ ] Modul 106 05
+- [x] Modul 187 10
+- [x] Modul 106 05
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
 | -------------- | ------------ | ------- | ------- | -------- |
-| 1 | Funktionierendes Programm (Winforms) | Satz in einer bestimmten Sprache | Die Sprache | |
-| 2 | Meine Lösung stimmt überein mit Lösung | Meine Lösung | Lösung |  |
+| 1 | Funktionierendes Programm (Winforms) | Satz in einer bestimmten Sprache | Die Sprache | funktioniert noch nicht |
+| 2 | Meine Lösung stimmt überein mit Lösung | Meine Lösung | Lösung | richtig |
 
+Ich konnte alle Aufträge erledigen ausser meinen Winforms Code da der eine Auftrag viel Zeit beansprucht hat.
 
+## 02.04.24
+
+- [ ] Modul 187 11
+- [ ] API Übersetzer ausarbeiten (Winforms)
+- [ ] Modul 187 12
+- [ ] Modul 106 06
 
 ## Reflexion
 
