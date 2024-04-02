@@ -64,10 +64,18 @@ Ich konnte alle Aufträge erledigen ausser meinen Winforms Code da der eine Auft
 
 ## 02.04.24
 
-- [ ] Modul 187 11
+- [x] Modul 187 11
 - [ ] API Übersetzer ausarbeiten (Winforms)
-- [ ] Modul 187 12
-- [ ] Modul 106 06
+- [x] Modul 187 12
+- [x] Modul 106 06
 
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| -------------- | ------------ | ------- | ------- | -------- |
+| 1 | Funktionierendes Programm (Winforms) | Satz in einer bestimmten Sprache | Die Sprache | funktioniert theoretisch (laut chatgpt) |
+| 2 | Meine Lösung stimmt überein mit Lösung | Meine Lösung | Lösung | richtig |
+
+Leider hatte ich wieder Probleme mit meinem Winforms Programm. Ich habe auch schon Chatgpt als Hilfe genutzt doch er wusste auch nicht weiter. 
+
+Ich will in der nächsten Lernperiode meine Arbeitspakete besser aufteilen. Diese Periode hatte ich viele Aufträge nicht geschaftt und sie wurden immer weiter weggeschoben. Wie bei meinen VbV gesagt konnte ich viele Arbeitspakete aus einer Sitzung nicht abschliessen aber dafür denke ich die Aufträge die ich abgeschlossen habe habe ich gut erledigt.
 ## Reflexion
 
